@@ -1,2 +1,2 @@
 # papers
-some papers I read.
+materials about ML/DL/AI
